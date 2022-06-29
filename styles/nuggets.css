@@ -1,0 +1,55 @@
+/*chicken nugget*/
+#cnttl {
+    background-color: orange;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+#cnimg {
+    width: 50%;
+    height: auto;
+}
+
+h4 {
+    color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: smaller;
+}
+
+h2 {
+    color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3 {
+    background-color: lightblue;
+}
+
+.ings {
+
+    color: blueviolet;
+
+}
+
+.ckng {
+    color: rgb(255, 0, 115);
+}
+
+ul li {
+    color: #b700ff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+ol li {
+    color: rgb(29, 76, 2);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.imp {
+    color: rgb(235, 104, 104);
+}
